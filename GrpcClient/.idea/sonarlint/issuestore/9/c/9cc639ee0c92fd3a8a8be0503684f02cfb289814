@@ -1,21 +1,0 @@
-
-hsquid:S1301§"KReplace this "switch" statement by "if" statements to increase readability.(Ã“’‰úÿÿÿÿ
-jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ìð‰¨øÿÿÿÿ
-esquid:S00101w"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Œ Æ¢
-ksquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹ç¿ôúÿÿÿÿ
-ksquid:S00101À"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(á‰Äýúÿÿÿÿ
-ksquid:S00101á"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤âê‰úÿÿÿÿ
-ksquid:S00101®"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­Ùª€ûÿÿÿÿ
-fsquid:S00101½"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´ï¿’
-ksquid:S00101Â"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„ƒ‰‰ùÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜Æ üÿÿÿÿ
-Esquid:S3077".Remove the "volatile" keyword from this field.(¯ùµõ
-Jsquid:S3077>".Remove the "volatile" keyword from this field.(·Þß±ûÿÿÿÿ
-Ksquid:S3077Ñ".Remove the "volatile" keyword from this field.(¸Í«ûþÿÿÿÿ
-jsquid:ModifiersOrderCheckw"EReorder the modifiers to comply with the Java Language Specification.(Œ Æ¢
-Esquid:S1172{".Remove this unused method parameter "request".(¾õã½
-Ksquid:S1172‚".Remove this unused method parameter "request".(ÝÙ¦üúÿÿÿÿ
-bsquid:S00119…"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(•ïÁš
-bsquid:S00119…"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(•ïÁš
-psquid:ModifiersOrderCheck®"EReorder the modifiers to comply with the Java Language Specification.(­Ùª€ûÿÿÿÿ
-Qsquid:S2388Í"9Prefix this call to "getServiceDescriptor" with "super.".(ÙØ¿Ï
